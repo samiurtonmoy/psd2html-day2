@@ -137,6 +137,8 @@ a:hover { text-decoration: none }
 
 .single-service-box:hover {
     color: #ec4a71;
+    border: 1px solid #ec4a71;
+    border-radius: 3px;
 }
 
 .single-service-box:hover a.service-readmore-button, .single-service-box:hover h3, .single-service-box:hover .service-icon {
